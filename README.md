@@ -1,5 +1,6 @@
 # Intelligent PDF‑Powered Chatbot
-## Tech Stack: React (“use client”), Tailwind‑styled UI components, Framer‑Motion, PDF.js, and Google’s Gemini‑1.5-Flash API
+## Tech Stack:
+React (“use client”), Tailwind‑styled UI components, Framer‑Motion, PDF.js, and Google’s Gemini‑1.5-Flash API
 
 ## What It Does:
 Enables users to upload a PDF — research paper, user manual, tech spec, proposal, etc.
